@@ -1,2 +1,5 @@
-# ZPQ7-
-🤖 My first discord bot
+# ZPQ7
+
+🤖 ZPQ7 is an moderation & music discord bot.
+It is still in development 💻 ...
+
