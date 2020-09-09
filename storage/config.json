@@ -1,0 +1,23 @@
+{
+    "token": "NzQ5NjIwMDEwNDQzNjAzOTk5.X0uoCQ.jkb8PdJj2wvlb2vtHZNUD-7NiA0",
+    "prefix": "!",
+    "emojiSucces": "<:yes:742140785159438406>",
+    "emojiError": "<:error:742151145815801927>",
+    "emojiBan": "<:ban:743228923034206398>",
+    "emojiDev": "<:dev:739474621685956618>",
+    "emojiBravery": "<:bravery:743511198716264468>",
+    "emojiBalance": "<:balance:743511237135958159>",
+    "emojiBrilliance": "<:brilliance:743511259822948404>",
+    "emojiNitro": "<:nitro:743513963601330216>",
+    "emojiEarly": "<:early:743884508574646423>",
+    "emojiBoost": "<a:serverBoost:742448349449551992>",
+    "emojiWaiting": "<a:waiting:743983798265446441>",
+    "emojiConfig": "<:config:744670104591269998>",
+    "emojiDnd": "<:dnd:745435901471228038>",
+    "emojiIdle": "<:idle:745436024179523595>",
+    "emojiInvisible": "<:invisible:745435979354996827>",
+    "emojiOnline": "<:online:745435933918101624>",
+    "emojiMute": "<:mute:743447557610668135>",
+    "emojiClear": ":wastebasket:",
+    "emojiNuke": ":radioactive:"
+}
